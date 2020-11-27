@@ -1,0 +1,1 @@
+This is a script, with commas, and "quotes, with commas" where we do not want "to count, commas" between quotes. Total number of commas in quotes is, 4, Total number of quotes is 2.

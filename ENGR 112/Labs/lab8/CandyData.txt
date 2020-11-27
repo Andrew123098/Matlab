@@ -1,0 +1,3 @@
+Rock candy, Gum, Lollipop, Taffy, Chocolate bar, Nerds, Butterscotch
+32, 15, 10, 3, 20, 8, 5
+3, 5, 4, 6, 10, 9, 9
